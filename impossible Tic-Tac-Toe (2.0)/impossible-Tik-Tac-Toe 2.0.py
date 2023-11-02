@@ -6,8 +6,8 @@ import random
 
 board = [[' ' for _ in range(3)] for _ in range(3)]
 
-lose_messages = ["Trash 🗑️", "GET REKT!!!!!!!😩", "HAHAHAHAHAHAHAHAH GET FUC#ED!!!", "Dumb AF😏", "Get back to work","Stop playing. you cant win😒.", "BUH-BYEEE👋🏾"]
-tie_messages = ["Mid Game", "Boring", "Try Harder", "Goofy ahh", "you aint smart", "Stop playing. you cant win."]
+lose_messages = ["another try", "NOPE", "maybe one day", "Saw it coming"," oops.", "BUH-BYEEE👋🏾"]
+tie_messages = ["Mid Game", "Boring", "Try Harder", "Nice try", " maybe another", "you can't win."]
 
 
 def display_random_message(messages):
